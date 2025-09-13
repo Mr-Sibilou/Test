@@ -3,4 +3,4 @@
 A = input (float("A: "))
 B = input (float("B: "))
 
-prit ("A * B = ", A * B)
+print ("A * B = ", A * B)
